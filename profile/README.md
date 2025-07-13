@@ -11,7 +11,7 @@ RELICA is a semantic modeling platform built on the Gellish Ontological Modeling
 This repository is currently **private** while we prepare for public release. 
 
 - Core platform development is ongoing
-- Documentation is being prepared
+- Documentation is in progress
 - Legal review in progress
 
 ## Coming Soon
@@ -25,13 +25,14 @@ This repository is currently **private** while we prepare for public release.
 ## Learn More
 
 For more information about RELICA:
-- Visit our website: [relica.dev](https://relica.dev)
-- Join our Discord: [discord.gg/yourcode](https://discord.gg/yourcode)
+- [Visit our website](https://relica.io)
+- [Read the docs](https://corpus-relica.github.io)
+- [Join our Discord](https://discord.gg/DhA95rvqyJ)
 
 ## Contact
 
-For early access or collaboration inquiries: [your-email@domain.com]
+For early access or collaboration inquiries: [info@relica.io]
 
 ---
 
-© 2025 Corpus Relica Group. All rights reserved.
+© 2025 Ad Specmentis Foudnate, LLC. All rights reserved.
