@@ -35,4 +35,4 @@ For early access or collaboration inquiries: [info@relica.io]
 
 ---
 
-© 2025 Ad Specmentis Foudnate, LLC. All rights reserved.
+© 2025 Ad Specmentis Foundation, LLC. All rights reserved.
