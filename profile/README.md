@@ -4,7 +4,9 @@ Semantic Modeling for Next-Generation Applications
 
 ## About
 
-RELICA is a semantic modeling platform built on the ontological standards. It enables developers to create knowledge graphs where relationship semantics are defined within the graph itself, using the graph's own vocabulary.
+Next-generation cognitive applications sustain continuous relationships with users through adaptive multimodal interfaces, combining genuine machine intelligence with unified world models that eliminate data silos. They enable fluid dialogue that seamlessly shifts between information capture, knowledge leverage, and system configuration — the long-promised vision of personal computing finally realized.
+
+RELICA is a self-referential knowledge graph where relationship semantics are defined within the graph itself, providing the ontological substrate these cognitive systems require. Because semantics live within the model, AI agents can read, reason about, and modify meaning structures directly — enabling sustained human-machine collaboration across temporal, spatial, and domain-specific knowledge without requiring developers to construct core ontologies from scratch.
 
 ## Status
 
