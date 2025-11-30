@@ -4,7 +4,7 @@ Semantic Modeling for Next-Generation Applications
 
 ## About
 
-RELICA is a semantic modeling platform built on the Gellish Ontological Modeling Language. It enables developers to create knowledge graphs where relationship semantics are defined within the graph itself, using the graph's own vocabulary.
+RELICA is a semantic modeling platform built on the ontological standards. It enables developers to create knowledge graphs where relationship semantics are defined within the graph itself, using the graph's own vocabulary.
 
 ## Status
 
@@ -26,8 +26,10 @@ This repository is currently **private** while we prepare for public release.
 
 For more information about RELICA:
 - [Visit our website](https://relica.io)
-- [Read the docs](https://corpus-relica.github.io)
-- [Join our Discord](https://discord.gg/DhA95rvqyJ)
+- [Read our rationale](https://thinking.relica.io)
+- [View the project roadmap](https://corpus-relica.github.io/roadmap/)
+<!-- - [Read the docs](https://corpus-relica.github.io) -->
+<!-- - [Join our Discord](https://discord.gg/DhA95rvqyJ) -->
 
 ## Contact
 
